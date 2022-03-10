@@ -1,4 +1,4 @@
-2. Write a Python function to produce the outputs such as:
+"""2. Write a Python function to produce the outputs such as:
 (a)   1
       21
       321
@@ -9,7 +9,7 @@ b)    1
      1234321
      12321
      121
-     1
+     1            """
 #(a)
 n=int(input("Enter the no. of rows:"))
 for i in range(0,n):
